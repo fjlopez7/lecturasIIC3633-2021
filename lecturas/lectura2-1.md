@@ -1,4 +1,4 @@
-#Crítica: Matrix factorization techniques for recommender systems
+# Crítica: Matrix factorization techniques for recommender systems
 
 Este paper se centra en la factorización de matrices para los dos tipos de sistemas recomendadores collaborative filtering y content-based. Se explican de forma general el problema a resolver en forma de matrices, los algoritmos de aprendizaje y aspectos importantes a tener en consideración como el sesgo en los datos y la confidencialidad de los inputs. 
 
